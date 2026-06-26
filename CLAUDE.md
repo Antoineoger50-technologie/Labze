@@ -14,10 +14,15 @@ Ce workspace est le Jarvis personnel de [VOTRE NOM]. Il a été créé avec le J
 
 ## Who I Am
 
-> Cette section sera remplie automatiquement lors de l'installation initiale via le module `/install module-installs/jarvis-install`.
-> Elle peut ensuite évoluer au fil du temps quand votre situation change.
+Je m'appelle Antoine et je vis près d'Angers, en France. Je suis étudiant en apprentissage (alternance) dans la mécanique automobile. Je prépare une mention complémentaire TEAVA (Technicien Expert Après-Vente Automobile, niveau équivalent BTS), avec mon école à Angers et mon alternance dans un garage où je fais de l'entretien, de la réparation et un peu de diagnostic.
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
+Mes objectifs prioritaires actuels : réussir mon diplôme TEAVA et décrocher mon premier CDI chez mon patron actuel, tout en commençant à développer en parallèle un business basé sur l'intelligence artificielle (solo, gérable depuis chez moi, type e-commerce ou SaaS).
+
+À long terme, je veux lancer un business et le faire décoller, développer de nouvelles compétences, et avoir le plein choix de ma vie professionnelle et entrepreneuriale.
+
+Le domaine où j'ai besoin du plus d'aide en ce moment : la productivité et l'organisation au quotidien, comme socle pour pouvoir ensuite construire et développer tout le reste.
+
+> **Style de communication attendu :** direct et droit au but par défaut (dis-moi clairement quelle est l'action à faire), avec du détail pédagogique quand ça peut vraiment m'aider. Tutoiement.
 
 ---
 
