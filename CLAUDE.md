@@ -6,7 +6,7 @@ This file provides guidance to Claude Code when working in this workspace.
 
 ## What This Is
 
-Ce workspace est le Jarvis personnel de [VOTRE NOM]. Il a été créé avec le Jarvis Starter Kit pour servir d'assistant IA personnel au quotidien.
+Ce workspace est le Jarvis personnel d'Antoine. Il a été créé avec le Jarvis Starter Kit pour servir d'assistant IA personnel au quotidien.
 
 **Ce fichier (CLAUDE.md) est la fondation.** Il est automatiquement chargé au début de chaque session. Gardez-le à jour, c'est la source de vérité unique sur la façon dont Claude doit comprendre et opérer dans ce workspace.
 
@@ -23,6 +23,27 @@ Mes objectifs prioritaires actuels : réussir mon diplôme TEAVA et décrocher m
 Le domaine où j'ai besoin du plus d'aide en ce moment : la productivité et l'organisation au quotidien, comme socle pour pouvoir ensuite construire et développer tout le reste.
 
 > **Style de communication attendu :** direct et droit au but par défaut (dis-moi clairement quelle est l'action à faire), avec du détail pédagogique quand ça peut vraiment m'aider. Tutoiement.
+
+---
+
+## Mes objectifs personnels
+
+> La photo de ce que je vise. Claude doit garder ces objectifs en tête pour orienter ses conseils et ses priorités.
+
+### Priorité du moment
+- **Productivité et organisation au quotidien**, comme socle pour pouvoir ensuite construire et développer tout le reste
+
+### Objectifs court terme (3 à 6 mois)
+1. **Réussir mon diplôme TEAVA** et monter en compétence en mécanique automobile
+2. **Décrocher mon premier CDI** chez mon patron actuel à l'issue de l'alternance
+3. **Commencer à développer un business en parallèle basé sur l'IA** (domaine encore à définir, solo et gérable depuis chez moi)
+
+### Objectifs long terme (1 à 3 ans)
+- Avoir **lancé un business et l'avoir fait décoller**
+- **Développer de nouvelles compétences** (IA, entrepreneuriat, mécanique)
+- Avoir **le plein choix de ma vie professionnelle et entrepreneuriale** (liberté et indépendance)
+
+> Le détail complet (projets, outils, préférences) vit dans `context/CONTEXT.md`. Cette section reste la vue d'ensemble de mes objectifs.
 
 ---
 
